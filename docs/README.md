@@ -14,17 +14,8 @@ With this API doc, users can :
 ## Map data API
 <iframe src="./MapDataAPI.html" width="100%" height="800px"></iframe>
 
-## GPS Tracking API
-<iframe src="./GPSTrackingAPI.html" width="100%" height="800px"></iframe>
-
-## Accessibilty API
-<iframe src="./ACCAPI.html" width="100%" height="800px"></iframe>
-
 ## Transportation Schedule API
-
-
-## Route Optimization API
-<iframe src="./RouteOptimizationAPI.html" width="100%" height="800px"></iframe>
+<iframe src="./TransportationScheduleAPI.html" width="100%" height="800px"></iframe>
 
 ## Rental Service API
 <iframe src="./RentalServiceAPI.html" width="100%" height="800px"></iframe>
